@@ -1,11 +1,19 @@
 ## Hi there 👋
 
-My name is Jan, I'm a graduate student in computer science at the Interamerican University of Puerto Rico, San German Campus.
+My name is **Jan Nieves Cedeño**, I'm a graduate student in **Computer Science** at the *Interamerican University of Puerto Rico, San Germán Campus*.
 
+---
+
+## 🚀 About Me
 - 🔭 I’m currently working on building a portfolio to show my skills as a software developer.
 - 🌱 I’m currently learning the MEAN stack technology.
-- 📧 Contact me: jnievecede2@gmail.com or [LinkedIn](https://www.linkedin.com/in/jan-nieves-cedeño-1b3414228/)
-- :briefcase: To see my work visit [my portfolio](https://jan-portfolio.github.io/static)
+
+---
+
+## 📬 Contact Me
+- 📧 **Email:** [jnievecede2@gmail.com](mailto:jnievecede2@gmail.com)
+- 🌐 **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/jannievescedeno)
+- 💼 **Portfolio** [Visit my work here](https://jan-portfolio.github.io/static)
 
 
 <!--
