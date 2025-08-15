@@ -12,7 +12,7 @@ My name is **Jan Nieves Cedeño**, I'm a graduate student in **Computer Science*
 
 ## 📬 Contact Me
 - 📧 **Email:** [jnievecede2@gmail.com](mailto:jnievecede2@gmail.com)
-- 🌐 **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/jannievescedeno)
+- 🌐 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jannievescedeno)
 - 💼 **Portfolio** [Visit my work here](https://jan-portfolio.github.io/static)
 
 
