@@ -8,8 +8,8 @@
 
 ## 👨‍💻 Experience
 
-**Full Stack Developer — Syngenta**  
-*Sep 2025 – Present*  
+### Full Stack Developer — Syngenta  
+*Sep 2025 – Present*
 
 **WordPress Development**
 - Developed a **WordPress plugin** to digitize and automate the corn pollination process.
@@ -28,6 +28,10 @@
 - **Backend:** Python (FastAPI), PostgreSQL, SQLAlchemy (async), Alembic, Redis.
 - Configured **Docker and Docker Compose** with hot reload.
 
+### Documentation Clerk (Internship) — CIQA  
+*Feb 2022 – May 2022*
+- Migrated and updated technical documentation to **GitHub Docs**.
+- Maintained and improved documentation originally written in English.
 
 ---
 
