@@ -6,83 +6,40 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 Experience
 
-I am a Software Developer with experience in **full-stack web development**, focused on building **scalable, reusable, and well-structured applications**. I have worked on the development of WordPress plugins and on the **migration of legacy systems to modern architectures** using React, Python, and PostgreSQL.
+**Full Stack Developer — Syngenta**  
+*Sep 2025 – Present*  
+- Developed a **WordPress plugin** to digitize and automate the corn pollination process.
+- Built dashboards for supervisors with **Excel/PDF exports**.
+- Designed database schemas using **ER diagrams**.
+- Implemented custom API endpoints and frontend–backend communication.
+- Contributed to a **WordPress → React + FastAPI migration**, including core frontend and async backend development.
+- Currently working on an **Inventory Management Module** with request and approval workflows.
 
-I enjoy working on projects that require **clean architecture**, **modular design**, and **real-world problem solving**, especially in environments where performance, maintainability, and developer experience matter.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- React (Vite)
-- TypeScript
-- React Router (Data Mode)
-- Tailwind CSS
-- clsx, class-variance-authority, tailwind-merge
-
-### Backend
-- Python (FastAPI)
-- Node.js / Express.js
-- PostgreSQL
-- SQLAlchemy 2.0 (async)
-- SQLite
-- Redis
-
-### DevOps & Tools
-- Docker & Docker Compose
-- Git & GitHub
-- Alembic
-- JWT (python-jose)
-- REST APIs
+**Documentation Clerk (Internship) — CIQA**  
+*Feb 2022 – May 2022*  
+- Migrated and updated technical documentation to **GitHub Docs**.
+- Improved and maintained documentation originally written in English.
 
 ---
 
-## 📌 Experience Highlights
+## 🛠️ Skills
 
-### 🌽 Agricultural Management Platform
-- Developed a **WordPress plugin** to automate and digitize agricultural pollination processes.
-- Built data collection forms for field workers and dashboards for supervisors with **Excel/PDF exports**.
-- Designed database schemas using **entity-relationship diagrams (ERD)**.
-- Created reusable PHP components and custom API endpoints.
+**Frontend:**  
+HTML, CSS, JavaScript, TypeScript, React, React Router, Tailwind CSS
 
-### 🔁 WordPress to Modern Stack Migration
-- Participated in a large-scale migration to:
-  - **Frontend:** React + TypeScript
-  - **Backend:** FastAPI + PostgreSQL
-- Contributed to architecture planning, naming conventions, and coding standards.
-- Built reusable frontend components and async backend core modules.
-- Configured Docker and docker-compose with hot reload.
-- Currently developing an **Inventory Management Module** with approval workflows.
-- Contributed to the design of an **offline-first mobile strategy** using React Native and SQLite.
+**Backend:**  
+Python, FastAPI, PHP, SQLAlchemy, JWT
 
----
+**Databases:**  
+PostgreSQL, MySQL, SQLite
 
-## 📱 Mobile & Offline-First Approach
-- Planned React Native mobile application for field workers.
-- Offline data storage using SQLite.
-- Automatic sync with backend once connectivity is restored.
+**Tools & Platforms:**  
+Docker, Docker Compose, Redis, Alembic, Git, GitHub, WordPress
 
----
-
-## 📈 What I'm Currently Learning
-- Advanced backend architecture with FastAPI
-- System design & scalability
-- Improving performance in async applications
-- Clean Architecture & Domain-Driven Design (DDD)
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 📧 Email: your-email@example.com
-
----
-
-⭐ *Always open to learning, collaborating, and building impactful software.*
+**Languages:**  
+Spanish (Native), English (Intermediate)
 
 <!--
 ## Hi there 👋
